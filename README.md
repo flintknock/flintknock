@@ -1,4 +1,4 @@
-flintknock#9049 on Discord.
+@flintknock on Discord.
 
 <!---
 flintknock/flintknock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
